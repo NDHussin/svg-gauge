@@ -1,5 +1,5 @@
 {
-  "name": "svg-gauge",
+  "name": "ndh-svg-gauge",
   "version": "1.0.7",
   "description": "Minimal SVG animated gauge with zero dependencies",
   "main": "index.js",
@@ -11,19 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naikus/svg-gauge.git"
+    "url": "git+https://github.com/NDHussin/svg-gauge"
   },
   "keywords": [
     "SVG",
     "Gauge",
     "Animation"
   ],
-  "author": "aniketn3@gmail.com",
+  "author": "ndhussin@keller-na.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/naikus/svg-gauge/issues"
-  },
-  "homepage": "https://github.com/naikus/svg-gauge#readme",
+  "homepage": "https://github.com/NDHussin/svg-gauge#readme",
   "devDependencies": {
     "del": "~3.0.0",
     "gulp": "^4.0.2",
